@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<dimen name="dp10">222.2222dp</dimen>
+	<dimen name="dp11">222.2222dp</dimen>
+	<dimen name="dp12">222.2222dp</dimen>
+	<dimen name="dp13">222.2222dp</dimen>
+	<dimen name="dp14">222.2222dp</dimen>
+	<dimen name="sp10">222.2222sp</dimen>
+	<dimen name="sp11">222.2222sp</dimen>
+	<dimen name="sp12">222.2222sp</dimen>
+	<dimen name="sp13">222.2222sp</dimen>
+	<dimen name="sp14">222.2222sp</dimen>
+</resources>
