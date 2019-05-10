@@ -1,4 +1,4 @@
-package b.com.weichunhao20190506;
+package b.com.a2019_05_06;
 
 import org.junit.Test;
 

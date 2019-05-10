@@ -1,4 +1,4 @@
-package b.com.weichunhao20190506;
+package b.com.a2019_05_06;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("b.com.weichunhao20190506", appContext.getPackageName());
+        assertEquals("b.com.a2019_05_06", appContext.getPackageName());
     }
 }
